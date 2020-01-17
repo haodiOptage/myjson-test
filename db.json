@@ -1,0 +1,14 @@
+{
+    "get": [
+      {
+        "id": 1,
+        "title": "JSON ServerでダミーAPIを作成"
+      },
+      {
+        "id": 2,
+        "title": "Vue.jsで基本機能を実装"
+      }
+    ]
+  }
+   
+ 
